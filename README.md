@@ -21,10 +21,3 @@ To use this repo, you should have node and npm packages
 `localhost:3000`
 
 You can use another port to run this.
-
-# Screenshot
-![Screenshot (49)](https://user-images.githubusercontent.com/77038742/127123921-2db155fe-441c-4f07-ae87-e5f6432140f0.png)
-
-
-# Contributer
-* [Manish Kumar Nayak](https://github.com/manish7377)
